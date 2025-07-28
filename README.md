@@ -1,2 +1,2 @@
 # LingSi
-Bunny game code buying kniefe
+Bunny game code buying knief
